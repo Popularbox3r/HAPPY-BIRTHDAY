@@ -14,8 +14,41 @@ function MessageCard({ isActive }) {
   const messageContentRef = useRef(null);
 
   const message = `DODO,
+Heyy happy birthday bbg!!
+I have a lot things to say to you half of which is written to you in that letter the other half is here . Here it goes 
+There is this line said by one of my fav character it explains how love should be and what it’s true meaning is 
+Yes I’m still in love with I’ve never stopped loving you to be honest even if it was before . This is what he says 
+“Love is caring about someone beyond all rationalities and wanting that person to have everything that they want no matter how much it destroys you .
+That is love .When you love someone ,you just dont stop ever , even when people roll their eyes or call you crazy .
+Even then ,Especially then . You just don’t give up . If I could I would take the whole worlds advice and move on and find someone else ,that wouldn’t be love .
+That would be one of the other disposable things that is not worth fighting for .”
+When I heard this for the first time in my life I had no one as such in mind 
+The second time when I watched I still had no one in mind but the time when I did only one name and one name only popped up that was you !
+“Diya Surana ”
+I’ve known you for a long time now but I’ve known known you for what 3-4 years I guess 
+Those 3-4 years are very happy days of my life because I knew whenever I was bored or angry or sad I could to to this one person I had in my contacts that was you ! 
+There was 3 options that you’d do 
+First: You’d make fun of it make me laugh with that contagious smile and laugh of yours 
+Second : After you’re done with the jokes and you’ll give me actual solutions to my problems 
+Third : You’ll silently work on problems that I have you without making it loud 
+Thank you for everything you’ve done till now 
+And Thank you for everything that you will do in the future 😂
+Thank you for being in my life .
+Thank you for being the person whom i could share all my feelings with .
+Thank you for keeping up with all my drama and nuisances
+Thank you for staying friends after all the fudge ups  I’ve done 
+Thank you for everything that you’ve agreed to do with me for the past 7 months I hope you’ve enjoyed everything 
+Sorry for being the bad person who couldn’t understand things , understand you when you needed it the most . I’ll try to be better now. 
+I can’t ever stop loving you 
+After hearing this please don’t try to do something about it 
+Don’t try to ignore me or avoid me thinking that it will help please don’t just be yourself .
+Be happy be strong 
+Fight for yourself and become the CA you’ve always wanted to 
+I don’t want to see you at your dukaan !!
 
-PARA 1
+I love you ❤️
+Yours truly, 
+Shubh
 
 Happy Birthday! 🎉
 
