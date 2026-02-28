@@ -172,7 +172,7 @@ function App() {
         <Gallery isActive={currentPage === 4} />
         <section className="final">
           <h2 className="final-message">💖 Forever Yours — Shubh 💖</h2>
-          <p className="final-subtitle">P3 ✨</p>
+          <p className="final-subtitle">Have a Blast i'll see you later today !! ✨</p>
         </section>
       </div>
 
